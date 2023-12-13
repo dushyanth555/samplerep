@@ -149,6 +149,3 @@ if(isset($_POST['prescribe']) && isset($_POST['pid']) && isset($_POST['ID']) && 
         
       </div>
       </div>
-      
-
-  
